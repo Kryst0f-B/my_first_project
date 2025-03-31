@@ -1,0 +1,3 @@
+@echo off
+powershell -Command "Start-Process 'https://www.youtube.com/shorts/c-CaeNLd23k'"
+exit
